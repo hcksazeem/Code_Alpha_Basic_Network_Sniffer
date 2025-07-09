@@ -19,7 +19,7 @@ A powerful, flexible, and beginner-friendly packet sniffer written in Python usi
 
 ## 🖥️ Screenshot
 
-> _(Add a screenshot here of the terminal showing captured packets)_
+![image alt](https://github.com/hcksazeem/Code_Alpha_Basic_Network_Sniffer/blob/8159ce81ae3f11d6af114ed87347f1e9632d9dd9/screenshot.png)
 
 ---
 
