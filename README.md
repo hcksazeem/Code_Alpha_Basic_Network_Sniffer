@@ -15,7 +15,7 @@ A powerful, flexible, and beginner-friendly packet sniffer written in Python usi
 - ✅ Color-coded terminal output for better readability
 - ✅ Fully command-line controlled (no hardcoded settings)
 
----
+--
 
 ## 🖥️ Screenshot
 
